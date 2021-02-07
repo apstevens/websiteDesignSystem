@@ -1,0 +1,45 @@
+
+body {
+    font-family: 'Nunito', sans-serif;
+    margin: 0 10%;
+}
+
+h2 {
+    width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.div-container {
+    border: 2px solid #dcdcdc;
+    padding: 10px;
+    margin: 10px auto;
+}
+
+.color-control {
+    display: inline-block;
+    width: 33%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;  
+}
+
+.dodgerblue {
+    background: #1e90ff;
+    color: #fff;
+}
+
+.crimson {
+    background: #dc143c;
+    color: #fff;
+}
+
+.olivedrab {
+    background: #6b8e23;
+    color: #fff;
+}
+
+.palegreen {
+    background: #98fb98;
+    color: #fff;
+}
